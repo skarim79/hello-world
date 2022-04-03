@@ -1,3 +1,2 @@
-# hello-world
-This is my first project.
-Github is amazing.
+# Hello World
+This is a readme for our first project!
